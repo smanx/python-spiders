@@ -2,7 +2,7 @@
 爬虫
 
 ### taobaomm
-`python tumblr_run.py`
+`python main_taobaomm.py`
 
 ### tumblr
 `python tumblr_run.py`
