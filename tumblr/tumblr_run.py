@@ -6,7 +6,7 @@ import download_res
 import download_res_aria2
 
 
-
+#需要爬的用户数组，请根据需要修改
 #users = ['hd08116','godmmm','wei--liang','hinbsksksbjdjd','lonely-start',,'liu5375',"zhling1994","mjj1024"]
 users = ['hb-loli','hd08116','wei--liang']
 try:
